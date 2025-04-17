@@ -14,7 +14,7 @@
 
 # DESCRIPTION
 
-This project is basic *File Integrity Checker Tool* written in Python. It builds to detect wheather file has been modified or not.
+This project is basic File Integrity Checker Tool written in Python. It builds to detect wheather file has been modified or not.
 
 # Example
 
