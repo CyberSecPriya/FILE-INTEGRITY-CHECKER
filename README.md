@@ -38,6 +38,8 @@ In Cybersecurity, it's important to know that file was changed or not especially
  import hashlib
 
 -> import: is a keyword
+
 -> hashlib: A built-in Python module.
+
    Purpose: Used to create hashes (like SHA-256 or MD5) which are unique digital fingerprints of file content.
  
