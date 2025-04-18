@@ -30,3 +30,9 @@ In Cybersecurity, it's important to know that file was changed or not especially
  Saves the original hash in a file (`hashes.txt`)  
  Compares the current file hash with the saved one  
  Alerts you if the file is unchanged or has been modified
+
+ # Explaination (Python Script)
+
+ # a) Importing Modules
+
+ import hashlib
