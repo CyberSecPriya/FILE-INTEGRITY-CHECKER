@@ -31,33 +31,7 @@ In Cybersecurity, it's important to know that file was changed or not especially
  Compares the current file hash with the saved one  
  Alerts you if the file is unchanged or has been modified
 
- # Explaination (Python Script)
-
- # 1. Importing Modules
-
-   import hashlib
-
--> import : is a keyword
-
--> hashlib : A built-in Python module.
-
--> Purpose : Used to create hashes (like SHA-256 or MD5) which are unique digital fingerprints of file content.
-
-   import os
-   
--> os : Another built-in module.
-
--> Purpose : Allows us to interact with the operating system (like checking if a file exists).
-
-# 2. Function to Generate Hash
-
-def get_file_hash(filename):
-
--> def: Used to define a function.
-
--> get_file_hash: The name of the function.
-
--> filename: Parameter that takes a file name (like test.txt).
+ 
 
 
 
