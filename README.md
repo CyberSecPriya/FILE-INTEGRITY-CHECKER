@@ -25,13 +25,22 @@ If you saved an important file like a (report, system file), and you want to mak
 In Cybersecurity, it's important to know that file was changed or not especially by hackers, malware, or during unauthorized access. This script helps you detect file tampering.
 
 # Features
-
- Generates SHA-256 hash of a given file  
- Saves the original hash in a file (`hashes.txt`)  
- Compares the current file hash with the saved one  
- Alerts you if the file is unchanged or has been modified
-
  
+1. Accepts any filename as input from the user.
+
+2. Generates a SHA-256 hash of the given file (a secure and widely used hashing method).
+
+3. Saves the original hash to a separate file called hashes.txt.
+
+4. On rechecking, it compares the saved hash with the current file hash.
+
+5. If hashes match, it says the file is unchanged. If not, it warns that the file has been 
+   modified.
+
+6. Prevents false results by checking if the hash file exists before comparing.
+
+7. Clean and readable code that’s beginner-friendly.
+
 
 
 
