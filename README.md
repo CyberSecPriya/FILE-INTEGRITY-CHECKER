@@ -41,7 +41,16 @@ In Cybersecurity, it's important to know that file was changed or not especially
 
 7. Clean and readable code that’s beginner-friendly.
 
+# How it works
 
+1. The script asks the user to enter the name of the file they want to verify.
 
+2. It calculates the SHA-256 hash of that file using Python’s hashlib module.
+ 
+3. If a saved hash doesn't exist, it saves the current hash.
+ 
+4. If a hash is already saved, it compares the current hash with the saved one.
+ 
+5. Output message shows whether the file is **unchanged** or **modified**.
 
  
