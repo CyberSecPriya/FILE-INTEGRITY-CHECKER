@@ -19,3 +19,14 @@ This project is basic File Integrity Checker Tool written in Python. It builds t
 # Example
 
 If you saved an important file like a (report, system file), and you want to make sure that nobody modify or tampers with it. This tool helps you to do that.
+
+# Why it's useful
+
+In Cybersecurity, it's important to know that file was changed or not especially by hackers, malware, or during unauthorized access. This script helps you detect file tampering.
+
+# Features
+
+ Generates SHA-256 hash of a given file  
+ Saves the original hash in a file (`hashes.txt`)  
+ Compares the current file hash with the saved one  
+ Alerts you if the file is unchanged or has been modified
