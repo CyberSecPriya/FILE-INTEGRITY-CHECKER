@@ -69,6 +69,20 @@ In Cybersecurity, it's important to know that file was changed or not especially
 6. Enter the filename when prompted (e.g., test.txt).
 
 7. Observe the output – whether the file is unchanged or modified.
+   
+# Precautions to Take:
+
+1. Protect the hashes.txt file – Store it securely and don't allow unauthorized edits.
+
+2. Use strong hashing algorithms – Like SHA-256 (which you are already using).
+
+3. Verify the correct file – Always enter the right filename, not the script itself.
+
+4. Save the hash before making any changes – So the tool can detect modifications accurately.
+
+5. Avoid sharing sensitive files – Only share the script and sample outputs, not personal or secure data.
+
+6. Organize files properly – Keep your script and test files in one secure folder.
 
 # Conclusion
 
