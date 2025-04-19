@@ -87,5 +87,6 @@ In Cybersecurity, it's important to know that file was changed or not especially
 # Conclusion
 
 This Python-based File Integrity Checker is a great starting point to understand file security and hash verification. It gives you hands-on experience with real-world cybersecurity concepts in a simple way. Whether you're a student, intern, or beginner in the field, this project introduces you to how professionals ensure data integrity and detect file tampering.
+It also strengthens your Python skills while applying them in a practical cybersecurity scenario.
 
  
