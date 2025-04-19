@@ -53,4 +53,25 @@ In Cybersecurity, it's important to know that file was changed or not especially
  
 5. Output message shows whether the file is **unchanged** or **modified**.
 
+ # How to Run the Script
+ 
+1. Make sure Python is installed on your system. You can download it from python.org.
+
+2. Save the Python script with a name like ( eg.task1.py.)
+
+3. Create a test file (e.g., test.txt) in the same folder with some sample content.
+
+4. Open VS Code, Terminal, or any Python environment.
+
+5. Run the script using:
+   python task1.py
+   
+6. Enter the filename when prompted (e.g., test.txt).
+
+7. Observe the output – whether the file is unchanged or modified.
+
+# Conclusion
+
+This Python-based File Integrity Checker is a great starting point to understand file security and hash verification. It gives you hands-on experience with real-world cybersecurity concepts in a simple way. Whether you're a student, intern, or beginner in the field, this project introduces you to how professionals ensure data integrity and detect file tampering.
+
  
