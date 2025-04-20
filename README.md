@@ -84,6 +84,15 @@ In Cybersecurity, it's important to know that file was changed or not especially
 
 6. Organize files properly – Keep your script and test files in one secure folder.
 
+# Output
+
+**Second Run** (NO Changes)
+
+![Image](https://github.com/user-attachments/assets/46edb568-d127-401d-beff-5f2a972a2103)
+
+**Third Run** (After Modify File task1.py)
+
+
 # Conclusion
 
 This Python-based File Integrity Checker is a great starting point to understand file security and hash verification. It gives you hands-on experience with real-world cybersecurity concepts in a simple way. Whether you're a student, intern, or beginner in the field, this project introduces you to how professionals ensure data integrity and detect file tampering.
