@@ -70,7 +70,7 @@ In Cybersecurity, it's important to know that file was changed or not especially
 
 7. Observe the output – whether the file is unchanged or modified.
    
-# Precautions to Take:
+# Precautions to Take
 
 1. Protect the hashes.txt file – Store it securely and don't allow unauthorized edits.
 
