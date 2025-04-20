@@ -16,15 +16,15 @@
 
 This project is basic File Integrity Checker Tool written in Python. It builds to detect wheather file has been modified or not.
 
-# Example
+# EXAMPLE
 
 If you saved an important file like a (report, system file), and you want to make sure that nobody modify or tampers with it. This tool helps you to do that.
 
-# Why it's useful
+# WHY IT'S USEFUL
 
 In Cybersecurity, it's important to know that file was changed or not especially by hackers, malware, or during unauthorized access. This script helps you detect file tampering.
 
-# Features
+# FEATURES
  
 1. Accepts any filename as input from the user.
 
@@ -41,7 +41,7 @@ In Cybersecurity, it's important to know that file was changed or not especially
 
 7. Clean and readable code that’s beginner-friendly.
 
-# How it works
+# HOW IT WORKS
 
 1. The script asks the user to enter the name of the file they want to verify.
 
@@ -53,7 +53,7 @@ In Cybersecurity, it's important to know that file was changed or not especially
  
 5. Output message shows whether the file is **unchanged** or **modified**.
 
- # How to Run the Script
+ # HOW THE SCRIPT RUN
  
 1. Make sure Python is installed on your system. You can download it from python.org.
 
@@ -70,7 +70,7 @@ In Cybersecurity, it's important to know that file was changed or not especially
 
 7. Observe the output – whether the file is unchanged or modified.
    
-# Precautions to Take
+# PRECAUTIONS TO TAKE
 
 1. Protect the hashes.txt file – Store it securely and don't allow unauthorized edits.
 
@@ -84,7 +84,7 @@ In Cybersecurity, it's important to know that file was changed or not especially
 
 6. Organize files properly – Keep your script and test files in one secure folder.
 
-# Output
+# OUTPUT
 
 **First Run** (Original File)
 
@@ -98,7 +98,7 @@ In Cybersecurity, it's important to know that file was changed or not especially
 
 ![Image](https://github.com/user-attachments/assets/ccb0be17-f746-4284-a473-405a364d3400)
 
-# Conclusion
+# CONCLUSION
 
 This Python-based File Integrity Checker is a great starting point to understand file security and hash verification. It gives you hands-on experience with real-world cybersecurity concepts in a simple way. Whether you're a student, intern, or beginner in the field, this project introduces you to how professionals ensure data integrity and detect file tampering.
 It also strengthens your Python skills while applying them in a practical cybersecurity scenario.
