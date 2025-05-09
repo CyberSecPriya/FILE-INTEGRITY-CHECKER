@@ -57,14 +57,14 @@ In Cybersecurity, it's important to know that file was changed or not especially
  
 1. Make sure Python is installed on your system. You can download it from python.org.
 
-2. Save the Python script with a name like ( eg.task1.py.)
+2. Save the Python script with a name like ( eg.`task1.py.`)
 
 3. Create a test file (e.g., test.txt) in the same folder with some sample content.
 
 4. Open VS Code, Terminal, or any Python environment.
 
 5. Run the script using:
-   python task1.py
+   python `task1.py`
    
 6. Enter the filename when prompted (e.g., test.txt).
 
@@ -94,7 +94,7 @@ In Cybersecurity, it's important to know that file was changed or not especially
 
 ![Image](https://github.com/user-attachments/assets/46edb568-d127-401d-beff-5f2a972a2103)
 
-**Third Run** (After Modify File task1.py)
+**Third Run** (After Modify File `task1.py`)
 
 ![Image](https://github.com/user-attachments/assets/ccb0be17-f746-4284-a473-405a364d3400)
 
