@@ -26,20 +26,20 @@ In Cybersecurity, it's important to know that file was changed or not especially
 
 # FEATURES
  
-1. Accepts any filename as input from the user.
+- Accepts any filename as input from the user.
 
-2. Generates a SHA-256 hash of the given file (a secure and widely used hashing method).
+- Generates a SHA-256 hash of the given file (a secure and widely used hashing method).
 
-3. Saves the original hash to a separate file called hashes.txt.
+- Saves the original hash to a separate file called hashes.txt.
 
-4. On rechecking, it compares the saved hash with the current file hash.
+- On rechecking, it compares the saved hash with the current file hash.
 
-5. If hashes match, it says the file is unchanged. If not, it warns that the file has been 
+- If hashes match, it says the file is unchanged. If not, it warns that the file has been 
    modified.
 
-6. Prevents false results by checking if the hash file exists before comparing.
+- Prevents false results by checking if the hash file exists before comparing.
 
-7. Clean and readable code that’s beginner-friendly.
+- Clean and readable code that’s beginner-friendly.
 
 # HOW IT WORKS
 
@@ -72,17 +72,17 @@ In Cybersecurity, it's important to know that file was changed or not especially
    
 # PRECAUTIONS TO TAKE
 
-1. Protect the hashes.txt file – Store it securely and don't allow unauthorized edits.
+- Protect the hashes.txt file – Store it securely and don't allow unauthorized edits.
 
-2. Use strong hashing algorithms – Like SHA-256 (which you are already using).
+- Use strong hashing algorithms – Like SHA-256 (which you are already using).
 
-3. Verify the correct file – Always enter the right filename, not the script itself.
+- Verify the correct file – Always enter the right filename, not the script itself.
 
-4. Save the hash before making any changes – So the tool can detect modifications accurately.
+- Save the hash before making any changes – So the tool can detect modifications accurately.
 
-5. Avoid sharing sensitive files – Only share the script and sample outputs, not personal or secure data.
+- Avoid sharing sensitive files – Only share the script and sample outputs, not personal or secure data.
 
-6. Organize files properly – Keep your script and test files in one secure folder.
+- Organize files properly – Keep your script and test files in one secure folder.
 
 # OUTPUT
 
